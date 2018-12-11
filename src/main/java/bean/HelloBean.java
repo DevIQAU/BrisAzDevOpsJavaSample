@@ -5,6 +5,8 @@ import java.io.Serializable;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
 
+//This is a change to trigger a commit
+
 @ManagedBean
 @SessionScoped
 public class HelloBean  implements Serializable{
